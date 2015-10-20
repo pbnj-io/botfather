@@ -43,7 +43,7 @@ var BotFather = (function () {
                 'Content-Length': Buffer.byteLength(parameters)
             }
         };
-        var request = https.request(options, function(response) {
+        var request = https.request(options, (response) => {
 
             var data = '';
             response.on('data', (chunk) => {
