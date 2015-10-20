@@ -27,6 +27,9 @@ var BotFather = (function () {
         var callback;
         if(typeof arguments[1] == 'function') {
             callback = arguments[1];
+        } else
+        if(typeof arguments[2] == 'function') {
+            callback = arguments[2];
         }
 
         // request
