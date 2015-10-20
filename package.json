@@ -1,17 +1,21 @@
 {
   "name": "botfather",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Telegram Bot API for NodeJS",
   "main": "botfather.js",
   "keywords": [
     "telegram",
     "api"
   ],
-  "repository" :
+  "repository":
   {
-    "type" : "git",
-    "url" : "https://github.com/aleki/botfather.git"
+    "type": "git",
+    "url": "https://github.com/aleki/botfather.git"
   },
+  "bugs": {
+    "url": "https://github.com/yagop/node-telegram-bot-api/issues"
+  },
+  "homepage": "https://aleki.me/",
   "author": "Aleki",
   "license": "MIT"
 }
