@@ -1,2 +1,1 @@
-# botfather
-Telegram Bot API for NodeJS
+# BotFather

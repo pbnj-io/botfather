@@ -1,0 +1,17 @@
+{
+  "name": "botfather",
+  "version": "1.0.4",
+  "description": "Telegram Bot API for NodeJS",
+  "main": "botfather.js",
+  "keywords": [
+    "telegram",
+    "api"
+  ],
+  "repository" :
+  {
+    "type" : "git",
+    "url" : "https://github.com/aleki/botfather.git"
+  },
+  "author": "Aleki",
+  "license": "MIT"
+}
